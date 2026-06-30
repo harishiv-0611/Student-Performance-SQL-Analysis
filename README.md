@@ -67,14 +67,12 @@ Some of the questions answered include:
 
 ## Project Structure
 
-```
-Student-Performance-SQL-Analysis/
+Student-Performance-SQL-Analysis
 │
-├── StudentPerformanceFactors.csv
 ├── README.md
-│
-└── sql/
-    ├── 02_basic_analysis.sql
+├── StudentPerformanceFactors.csv
+└── sql
+    ├── 01_basic_queries.sql
     └── 03_business_questions.sql
 ```
 
