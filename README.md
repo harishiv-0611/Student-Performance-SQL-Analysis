@@ -1,6 +1,6 @@
 # Student Performance SQL Analysis
 
-This project is my first SQL analysis project built using MySQL Workbench. I worked on a student performance dataset to practice writing SQL queries and understand how data can be used to answer real-world questions.
+This project is my  SQL analysis project built using MySQL Workbench. I worked on a student performance dataset to practice writing SQL queries and understand how data can be used to answer real-world questions.
 
 Instead of only writing practice queries, I tried to approach the dataset like a data analyst by asking business questions and using SQL to find meaningful insights.
 
@@ -65,18 +65,14 @@ Some of the questions answered include:
 
 ---
 
-## Project Structure
+## Files
 
-Student-Performance-SQL-Analysis
-│
-├── README.md
-├── StudentPerformanceFactors.csv
-└── sql
-    ├── 01_basic_queries.sql
-    └── 03_business_questions.sql
-```
+| File | Description |
+|------|-------------|
+| `StudentPerformanceFactors.csv` | Dataset used for analysis |
+| `01_basic_queries.sql` | Basic SQL queries for exploration and analysis |
+| `02_business_questions.sql` | Business-oriented SQL analysis and insights |
 
----
 
 ## Tools
 
