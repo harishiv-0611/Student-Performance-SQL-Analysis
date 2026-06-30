@@ -99,5 +99,6 @@ Student-Performance-SQL-Analysis/
 ## What I Learned
 
 Working on this project helped me become comfortable with writing SQL queries for data analysis instead of just solving isolated practice problems. I also learned how to break down business questions into SQL queries and interpret the results.
+##Author
 Harishiv Chawla
 
